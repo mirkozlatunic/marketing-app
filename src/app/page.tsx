@@ -1,4 +1,3 @@
-import Link from "next/link";
 import homeImg from "public/home.jpg";
 import Hero from "@/components/hero";
 
